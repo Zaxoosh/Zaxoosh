@@ -30,6 +30,10 @@ I'm a developer working across web apps, automation, and modding projects. My pu
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaxoosh&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zaxoosh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaxoosh&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
