@@ -38,19 +38,15 @@ I tend to work on things that are useful, visual, or community-focused: dashboar
 
 ## Most Active Repositories
 
-> GitHub profile cards often fail for private repositories, so this section uses stable links and badges instead of external repo-card images.
-
 | Repository | What it is | Main focus |
 | --- | --- | --- |
-| [SummitNoRescue](https://github.com/Zaxoosh/SummitNoRescue) | Mountain/climbing game project. | Gameplay systems and terrain ideas |
+| [ss14-final-frontier](https://github.com/buskeit/ss14-final-frontier) | Space Station 14 Final Frontier server project. | Game systems, content porting, and bug fixes |
 | [CleanTrace](https://github.com/Zaxoosh/CleanTrace) | Local OSINT-style tooling. | Investigation workflow and utilities |
 | [CrashSense-AI](https://github.com/Zaxoosh/CrashSense-AI) | AI-focused project. | TypeScript and AI-assisted tooling |
 | [Labworks-Leveling-Bot](https://github.com/Zaxoosh/Labworks-Leveling-Bot) | Discord leveling/community bot. | Python automation and server features |
-| [ModMenu](https://github.com/Zaxoosh/ModMenu) | Mod menu work. | Java and Minecraft modding |
-| [Create-For-Fabric-Continued](https://github.com/Zaxoosh/Create-For-Fabric-Continued) | Fabric continuation work. | Java, Fabric, and mod maintenance |
 
 <p align="center">
-  <a href="https://github.com/Zaxoosh/SummitNoRescue"><img src="https://img.shields.io/badge/SummitNoRescue-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="SummitNoRescue" /></a>
+  <a href="https://github.com/buskeit/ss14-final-frontier"><img src="https://img.shields.io/badge/ss14--final--frontier-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="ss14-final-frontier" /></a>
   <a href="https://github.com/Zaxoosh/CleanTrace"><img src="https://img.shields.io/badge/CleanTrace-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="CleanTrace" /></a>
   <a href="https://github.com/Zaxoosh/CrashSense-AI"><img src="https://img.shields.io/badge/CrashSense--AI-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="CrashSense-AI" /></a>
   <a href="https://github.com/Zaxoosh/Labworks-Leveling-Bot"><img src="https://img.shields.io/badge/Labworks%20Leveling%20Bot-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="Labworks-Leveling-Bot" /></a>
