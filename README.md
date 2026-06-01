@@ -74,15 +74,6 @@ I tend to work on things that are useful, visual, or community-focused: dashboar
 
 ---
 
-## Current Direction
-
-- Building more polished tools with cleaner interfaces.
-- Working more with automation, AI-assisted development, and practical dashboards.
-- Keeping modding and community projects moving forward.
-- Turning useful ideas into projects that are actually shipped.
-
----
-
 <div align="center">
 
 <a href="https://github.com/Zaxoosh?tab=repositories">
