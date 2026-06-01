@@ -38,32 +38,7 @@ I tend to work on things that are useful, visual, or community-focused: dashboar
 
 ## Most Active Repositories
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Zaxoosh/SummitNoRescue">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zaxoosh&repo=SummitNoRescue&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="SummitNoRescue" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Zaxoosh/CleanTrace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zaxoosh&repo=CleanTrace&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="CleanTrace" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Zaxoosh/CrashSense-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zaxoosh&repo=CrashSense-AI&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="CrashSense-AI" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Zaxoosh/Labworks-Leveling-Bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zaxoosh&repo=Labworks-Leveling-Bot&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Labworks-Leveling-Bot" />
-      </a>
-    </td>
-  </tr>
-</table>
+> GitHub profile cards often fail for private repositories, so this section uses stable links and badges instead of external repo-card images.
 
 | Repository | What it is | Main focus |
 | --- | --- | --- |
@@ -74,14 +49,20 @@ I tend to work on things that are useful, visual, or community-focused: dashboar
 | [ModMenu](https://github.com/Zaxoosh/ModMenu) | Mod menu work. | Java and Minecraft modding |
 | [Create-For-Fabric-Continued](https://github.com/Zaxoosh/Create-For-Fabric-Continued) | Fabric continuation work. | Java, Fabric, and mod maintenance |
 
+<p align="center">
+  <a href="https://github.com/Zaxoosh/SummitNoRescue"><img src="https://img.shields.io/badge/SummitNoRescue-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="SummitNoRescue" /></a>
+  <a href="https://github.com/Zaxoosh/CleanTrace"><img src="https://img.shields.io/badge/CleanTrace-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="CleanTrace" /></a>
+  <a href="https://github.com/Zaxoosh/CrashSense-AI"><img src="https://img.shields.io/badge/CrashSense--AI-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="CrashSense-AI" /></a>
+  <a href="https://github.com/Zaxoosh/Labworks-Leveling-Bot"><img src="https://img.shields.io/badge/Labworks%20Leveling%20Bot-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=58A6FF" alt="Labworks-Leveling-Bot" /></a>
+</p>
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zaxoosh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaxoosh&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaxoosh&theme=github_dark" alt="GitHub profile summary" />
 
 <br />
 <br />
